@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WafflesCordDevelopmentTeam/SURVIVE-AND-KILL-THE-KILLERS-IN-AREA-51/refs/heads/main/KadeM's%20Survive%20And%20Kill%20The%20Killer's%20In%20Area%2051%20Script.lua"))()
