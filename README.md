@@ -1,1 +1,1 @@
-Discord: nnatsukawa (KadeM)
+Discord: nnatsukawa (KadeM Or Kade)
